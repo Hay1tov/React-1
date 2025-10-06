@@ -3,7 +3,7 @@ import xiaomi from '../images/Xiaomi.png'
 import bitfit from '../images/BitFit.png'
 
 function Brands() {
-  return <div className='flex flex-row justify-between'>
+  return <div className='flex flex-row justify-between pb-[135px] pt-[73px] container max-w-[1100px] mx-auto'>
     {/* Apple */}
     <div className='w-[354px] h-[239px] rounded-[22px] bg-[#F6F6F6] flex justify-center items-center'>
       <div className='flex flex-row gap-[26px] '>
