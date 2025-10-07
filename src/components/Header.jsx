@@ -15,9 +15,9 @@ function Header() {
         <a href="#" className="font-[500] font-[cursive] text-[#8B8E99]" >About</a>
       </div>  
       <div className="space-x-4">
-        <a href="#" className="text-white text-[20px]" ><i class='bx  bx-search-alt'  ></i> </a>
-        <a href="#" className="text-white text-[20px]" ><i class='bx  bx-user-circle'  ></i> </a>
-        <a href="#" className="text-white text-[20px]" ><i class='bx  bx-cart'  ></i> </a>
+        <a href="#" className="text-white text-[20px]" ><i className='bx  bx-search-alt'  ></i> </a>
+        <a href="#" className="text-white text-[20px]" ><i className='bx  bx-user-circle'  ></i> </a>
+        <a href="#" className="text-white text-[20px]" ><i className='bx  bx-cart'  ></i> </a>
       </div>
     </nav>
   </header>
